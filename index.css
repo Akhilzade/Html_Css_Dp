@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+body{
+
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Island Moments', cursive;
+}
+ .container-fluid{
+    
+    padding-top:30px ;
+    padding-bottom: 10px;
+    box-shadow: 0px 0.5px;
+
+}
+#bone{
+
+     padding: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+}
+#btnOne{
+    
+    margin-left: 400px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+#btwo{
+
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+#btnTwo{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.container{
+
+    margin-top: 20px;
+}
+#cardOne{
+ 
+    margin-left: 250px;
+}
+.card-header{
+
+    padding: 18px;
+    background-color: white;
+}
+.fafa{
+    margin-left: 240px;
+}
+.svg-inline--fa {
+    font-size: larger;
+}
+.card{
+
+    box-shadow: 0px 0px;
+    border-radius: 18px;
+}
+.txt{
+
+    font-size:33px;
+}
+.txtx{
+    
+    padding-left: 50px;
+    padding-top: 16px;
+    font-weight: bold;
+    color: gray;
+}
+h6:disabled{
+    background: gray;
+}
+.tx{
+    font-size: 30px;
+}
